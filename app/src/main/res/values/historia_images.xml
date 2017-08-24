@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="historia_images">
+        <item>@drawable/historia_village</item>
+        <item>@drawable/historia_village</item>
+        <item>@drawable/historia_fada</item>
+        <item>@drawable/historia_fada</item>
+        <item>@drawable/historia_dragon_attack</item>
+        <item>@drawable/historia_vila_fogo</item>
+        <item>@drawable/historia_taverna</item>
+        <item>@drawable/historia_taverna</item>
+        <item>@drawable/historia_forge</item>
+        <item>@drawable/historia_dark_tower</item>
+        <item>@drawable/historia_chegada</item>
+        <item>@drawable/historia_squireel</item>
+    </integer-array>
+</resources>

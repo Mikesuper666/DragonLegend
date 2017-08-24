@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="fase_um_images">
+        <item>@drawable/fase_um_zero</item>
+        <item>@drawable/fase_um_zero</item>
+        <item>@drawable/fase_um_zero</item>
+        <item>@drawable/fase_um_um</item>
+        <item>@drawable/fase_um_dois</item>
+        <item>@drawable/fase_um_dois</item>
+    </integer-array>
+
+    <integer-array name="fase_dois_images">
+        <item>@drawable/fase_um_um</item>
+        <item>@drawable/fase_dois_mulher</item>
+        <item>@drawable/fase_dois_mulher</item>
+        <item>@drawable/fase_dois_parindo</item>
+        <item>@drawable/fase_dois_parindo</item>
+    </integer-array>
+
+    <integer-array name="fase_tres_images">
+        <item>@drawable/cenario_batalha_seis</item>
+        <item>@drawable/cenario_batalha_seis</item>
+        <item>@drawable/fase_tres_imps</item>
+        <item>@drawable/fase_tres_imps</item>
+        <item>@drawable/fase_tres_imps</item>
+        <item>@drawable/fase_tres_escondido</item>
+        <item>@drawable/fase_tres_escondido</item>
+    </integer-array>
+
+    <integer-array name="fase_quatro_images">
+        <item>@drawable/fase_quatro_correndo</item>
+        <item>@drawable/fase_quatro_lamparinas</item>
+        <item>@drawable/fase_quatro_lamparinas</item>
+        <item>@drawable/fase_quatro_vanhellsing</item>
+        <item>@drawable/fase_quatro_vanhellsing</item>
+        <item>@drawable/fase_quatro_caminho</item>
+    </integer-array>
+
+    <integer-array name="fase_cinco_images">
+        <item>@drawable/fase_cinco_esqueletos</item>
+        <item>@drawable/fase_cinco_doctor</item>
+        <item>@drawable/fase_cinco_doctor</item>
+    </integer-array>
+
+    <integer-array name="fase_seis_images">
+        <item>@drawable/cenario_batalha_seis</item>
+        <item>@drawable/fase_seis_orc</item>
+        <item>@drawable/fase_seis_orc</item>
+        <item>@drawable/fase_seis_orc</item>
+    </integer-array>
+
+    <integer-array name="fase_sete_images">
+        <item>@drawable/fase_um_um</item>
+        <item>@drawable/fase_sete_corredor</item>
+        <item>@drawable/fase_sete_corredor</item>
+        <item>@drawable/fase_sete_cruzamento</item>
+        <item>@drawable/fase_sete_cruzamento</item>
+        <item>@drawable/fase_sete_cerberus</item>
+        <item>@drawable/fase_sete_cerberus</item>
+    </integer-array>
+
+    <integer-array name="fase_oito_images">
+        <item>@drawable/fase_oito_escada</item>
+        <item>@drawable/fase_oito_topo</item>
+    </integer-array>
+
+    <integer-array name="fase_nove_images">
+        <item>@drawable/fase_nove_final</item>
+        <item>@drawable/fase_nove_finaltorre</item>
+        <item>@drawable/fase_nove_taverna</item>
+        <item>@drawable/fase_nove_agradecimentos</item>
+    </integer-array>
+
+    <integer-array name="cenario_batalha_images">
+        <item>@drawable/cenario_batalha_zero</item>
+        <item>@drawable/cenario_batalha_um</item>
+        <item>@drawable/cenario_batalha_tres</item>
+        <item>@drawable/cenario_batalha_quatro</item>
+        <item>@drawable/cenario_batalha_cinco</item>
+        <item>@drawable/cenario_batalha_seis</item>
+        <item>@drawable/cenario_batalha_oito</item>
+        <item>@drawable/cenario_batalha_nove</item>
+    </integer-array>
+
+    <integer-array name="inimigos_batalha_images">
+        <item>@drawable/inimigo_cobra</item>
+        <item>@drawable/inimigo_planta</item>
+        <item>@drawable/inimigo_imp</item>
+        <item>@drawable/inimigo_aranha</item>
+        <item>@drawable/inimigo_doctor</item>
+        <item>@drawable/inimigo_orc</item>
+        <item>@drawable/inimigo_cerberus</item>
+        <item>@drawable/inimigo_dragao</item>
+    </integer-array>
+</resources>

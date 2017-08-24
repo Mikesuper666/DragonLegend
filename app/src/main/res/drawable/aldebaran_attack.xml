@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/aldebaran_attack_um" android:duration="100"></item>
+    <item android:drawable="@drawable/aldebaran_attack_dois" android:duration="100"></item>
+    <item android:drawable="@drawable/aldebaran_attack_tres" android:duration="100"></item>
+    <item android:drawable="@drawable/aldebaran_attack_quatro" android:duration="100"></item>
+    <item android:drawable="@drawable/aldebaran_attack_cinco" android:duration="100"></item>
+    <item android:drawable="@drawable/aldebaran_attack_seis" android:duration="100"></item>
+    <item android:drawable="@drawable/aldebaran_attack_sete" android:duration="100"></item>
+    <item android:drawable="@drawable/aldebaran_attack_oito" android:duration="100"></item>
+</animation-list>
